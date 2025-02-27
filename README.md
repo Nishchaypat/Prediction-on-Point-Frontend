@@ -1,4 +1,4 @@
-Prediction on Point 🏆
+Prediction on Point 
 
 Inspiration
 
