@@ -2,7 +2,6 @@ import SwiftUI
 import PythonKit
 
 
-
 struct ScreenA: View {
     @State private var selectedOption1 = 0
     @State private var selectedOption2 = 0
